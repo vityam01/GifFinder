@@ -1,0 +1,15 @@
+/* 
+  File.strings
+  KevychTestTask
+
+  Created by Vitya Mandryk on 28.05.2022.
+  
+*/
+
+
+"AlertController.Message.title" = "ЙЙЙООООООЙЙЙ!🙈";
+"AlertController.Message.message" = "Нам не вдалось знайти зображення за данним іменем 🦦";
+"AlertController.Message.buttonText" = "Назад";
+
+
+"Controller.Text.titleText" = "🧐Пошук Картинок🧐";
