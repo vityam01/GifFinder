@@ -243,7 +243,7 @@
 			);
 			mainGroup = 60064674284147A0000EF14C;
 			packageReferences = (
-				6065C50F28436E7E00095C98 /* XCRemoteSwiftPackageReference "SDWebImage.git" */,
+				6065C50F28436E7E00095C98 /* XCRemoteSwiftPackageReference "SDWebImage" */,
 			);
 			productRefGroup = 6006467E284147A0000EF14C /* Products */;
 			projectDirPath = "";
@@ -483,6 +483,7 @@
 				DEVELOPMENT_TEAM = WPCGHGYM76;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = KevychTestTask/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Gif_Finder;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -511,6 +512,7 @@
 				DEVELOPMENT_TEAM = WPCGHGYM76;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = KevychTestTask/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Gif_Finder;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -552,7 +554,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		6065C50F28436E7E00095C98 /* XCRemoteSwiftPackageReference "SDWebImage.git" */ = {
+		6065C50F28436E7E00095C98 /* XCRemoteSwiftPackageReference "SDWebImage" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/SDWebImage/SDWebImage.git";
 			requirement = {
@@ -565,12 +567,12 @@
 /* Begin XCSwiftPackageProductDependency section */
 		6065C51028436E7F00095C98 /* SDWebImage */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 6065C50F28436E7E00095C98 /* XCRemoteSwiftPackageReference "SDWebImage.git" */;
+			package = 6065C50F28436E7E00095C98 /* XCRemoteSwiftPackageReference "SDWebImage" */;
 			productName = SDWebImage;
 		};
 		6065C51228436E7F00095C98 /* SDWebImageMapKit */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 6065C50F28436E7E00095C98 /* XCRemoteSwiftPackageReference "SDWebImage.git" */;
+			package = 6065C50F28436E7E00095C98 /* XCRemoteSwiftPackageReference "SDWebImage" */;
 			productName = SDWebImageMapKit;
 		};
 /* End XCSwiftPackageProductDependency section */
